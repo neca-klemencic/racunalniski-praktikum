@@ -11,7 +11,7 @@
 * *Prilepi* vsebino odložišča: <kbd>Ctrl</kbd>+<kbd>V</kbd>
 * *Zapri* odprto okence: <kbd>Ctrl</kbd>+<kbd>W</kbd>
 * Un-Do oziroma razveljavi: <kbd>Ctrl</kbd>+<kbd>Z</kbd>
-* Re-Do oziroma uveljavi:<kbd>Ctrl</kbd>+<kbd>Y</kbd>
+* Re-Do oziroma uveljavi:<kbd>Ctrl</kbd>+<kbd>Y</kbd> 
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
